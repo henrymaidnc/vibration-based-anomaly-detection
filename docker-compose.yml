@@ -1,0 +1,10 @@
+# Create docker-compose.yml
+services:
+  jupyter:
+    image: tensorflow/tensorflow:latest-jupyter
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/tf/notebooks
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
