@@ -1,6 +1,6 @@
 # Vibration-Based Anomaly Detection using Time-Series Analysis
 
-## 1. Overview
+## 1. Overview 
 Industrial machines such as rotating bearings generate vibration signals that
 contain rich information about their health condition. Abnormal vibration patterns
 often indicate early-stage faults that cannot be easily observed in the time domain.
