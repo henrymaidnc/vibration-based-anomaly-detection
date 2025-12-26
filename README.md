@@ -61,6 +61,7 @@ Detailed implementation will be provided in the notebooks.
 ---
 
 ## 6. Project Structure
+```text
 vibration-based-anomaly-detection/
 │
 ├── data/ # Raw and processed vibration data
@@ -69,7 +70,7 @@ vibration-based-anomaly-detection/
 ├── results/ # Figures and evaluation outputs
 └── docs/ # Daily Research Todo
 └── README.md
-
+```
 
 ---
 
